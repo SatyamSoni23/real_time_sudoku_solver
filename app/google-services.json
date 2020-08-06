@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "271815036006",
+    "firebase_url": "https://talkme-dc4b6.firebaseio.com",
+    "project_id": "talkme-dc4b6",
+    "storage_bucket": "talkme-dc4b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271815036006:android:5bb1b59163e9552ef9f1a7",
+        "android_client_info": {
+          "package_name": "com.secure.talkme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271815036006-ah003n1i3bak7vo2d2vt0mtrp0eb73cq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.secure.talkme",
+            "certificate_hash": "87232138418886e73f91b9f6cfb0c87b0f7de1f7"
+          }
+        },
+        {
+          "client_id": "271815036006-8eq737lui30483f114kjb53lqtufpdrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_HZkBGbbZbl0LsmoC8UYAVBQ9fLIiuR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271815036006-8eq737lui30483f114kjb53lqtufpdrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
